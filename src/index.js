@@ -1,10 +1,10 @@
 // Scss
 import './style/main.scss';
 //Views
-import {viewSampel} from './javascript_pages/view_sampel'
+import { renderSampel } from './javascript_pages/sampel'
 //Logics
 import {sampel} from './javascript_logics/sampel'
 //Functions calls
 
 sampel()
-viewSampel()
+renderSampel()
